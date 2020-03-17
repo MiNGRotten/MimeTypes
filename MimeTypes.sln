@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MimeTypes", "MimeTypes\MimeTypes.csproj", "{5966E1B7-7870-4055-AAEF-259B134D8399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MimeTypes.Tests", "MimeTypes.Tests\MimeTypes.Tests.csproj", "{F77EFCCE-2729-4BD7-8B20-C9BE7E993501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5966E1B7-7870-4055-AAEF-259B134D8399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5966E1B7-7870-4055-AAEF-259B134D8399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5966E1B7-7870-4055-AAEF-259B134D8399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5966E1B7-7870-4055-AAEF-259B134D8399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77EFCCE-2729-4BD7-8B20-C9BE7E993501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77EFCCE-2729-4BD7-8B20-C9BE7E993501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77EFCCE-2729-4BD7-8B20-C9BE7E993501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77EFCCE-2729-4BD7-8B20-C9BE7E993501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67115FB9-DE6C-4101-BA62-1D9F7772A7AE}
+	EndGlobalSection
+EndGlobal
